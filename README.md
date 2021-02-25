@@ -1,6 +1,6 @@
 # Switch tabs 
 
-### Switch tabs along with the content , had to work with the dataset in javascript to achieve this .
+### Switch tabs along with the content  .
 
 ### View my deployed app at :- https://sahil9818336328.github.io/Tabs/
 
